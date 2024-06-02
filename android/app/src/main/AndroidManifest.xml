@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="brew_crew"
+        android:label="Brew Crew"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/coffeeicon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
